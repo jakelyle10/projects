@@ -1,1 +1,1 @@
-This is a Databricks based project that looks to pull twitter mentions of ethereum, and compare that to the price of them. This project was ran in April '22, however one can replace the public & private keys with their own Twitter dev keys and run themselves.
+This is a Databricks based project that looks to pull twitter mentions of ethereum, and compare that to the price of them. This project was ran in April '22, however one can replace the public & private keys with their own Twitter dev keys and run themselves. HTML output, Ipynb and dbc files are included.
